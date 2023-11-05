@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://graingrowerwp.themesflat.co
+Data file = /home/admin/domains/themesflat.co/public_html/graingrowerwp/wp-content/uploads/2023/03/demo-content-import-file_2023-03-08__07-06-39.xml
+Widget file = /home/admin/domains/themesflat.co/public_html/graingrowerwp/wp-content/uploads/2023/03/demo-widgets-import-file_2023-03-08__07-06-39.json
+Customizer file = /home/admin/domains/themesflat.co/public_html/graingrowerwp/wp-content/uploads/2023/03/demo-customizer-import-file_2023-03-08__07-06-39.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Themesflat - Socials - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Navigation Menu - Top Links - Imported
+
+Footer Widget Area 3 : 
+
+Block - No Title - Imported
+
+Footer Widget Area 4 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar Toggler : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
